@@ -20,7 +20,7 @@ a {
     color: unset;
 }
 
-h1, p {
+h1, h2, p {
     margin: 0;
 }
 
@@ -35,5 +35,4 @@ h1, p {
     height: 1px;
     border-color: var( --color-main-black);
    
-    
 }
